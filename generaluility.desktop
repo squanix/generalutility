@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=General Utility
+Terminal=true
+Icon=/home/squanix/Utility/General-Utility/GeneralU.png
+Exec=/home/squanix/Utility/General-Utility/General_Utility.sh
+Categories=Utilities;
